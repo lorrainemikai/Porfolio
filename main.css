@@ -7,12 +7,19 @@ background: url("s.jpg")
 }
 
 .jumbotron{
-  background=color: purple
+color: black;
+float: right;
+align-items: stretch;
 }
-.container { background-color: rgb(182, 57, 169)
 
+.yeey
+{
+  color: )
 }
-Img{
-  left:500px;
-
+.oo{
+  color: yellow;
+align-self: flex-end;
+}
+.t{
+  color: rgb(97, 90, 93)
 }
