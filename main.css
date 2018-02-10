@@ -1,34 +1,12 @@
-body, .body{
-  background-co/*color: #525252*/lor: black !important;
-  font-style: italic;
-/*color: #525252*/
-background: url("s.jpg")
-
+.body{
+  background: url(s.jpg)
 }
-
 .jumbotron{
-background-image: url(t.jpg);
-float: right;
-align-items: stretch;
-font-style: italic;
-color: rgb(62, 61, 65)
-}
-
-.yeey
-{
-  color: )
+  background: url(t.jpg)
 }
 .oo{
-  color: rgb(3, 2, 3);
-align-self: flex-end;
+  color: rgb(238, 120, 210)
 }
-.t{
-  color: rgb(2, 4, 5)
-}
-.y {
-  color:rgb(1, 1, 1)
-}
-body{
-  font-size: 100px
-
+.the{
+  color: rgb(61, 179, 118)
 }
