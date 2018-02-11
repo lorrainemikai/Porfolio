@@ -2,7 +2,8 @@
   background: url(s.jpg)
 }
 .jumbotron{
-  background: url(t.jpg)
+  background: url(t.jpg);
+ float: none;
 }
 .oo{
   color: rgb(238, 120, 210)
