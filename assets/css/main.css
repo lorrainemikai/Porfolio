@@ -306,7 +306,9 @@ input, select, textarea {
 				width: 50%;
 				height: 40%;
 			}
-		
+		.fas{
+			background-color:black;
+		}
 
 /* Row */
 
