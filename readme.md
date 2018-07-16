@@ -1,9 +1,13 @@
- this is all about me
+##TheLookBook
+A html,js,sass and css website with a brief description about my self and includes the work that i have done so far.
 
- it explains who i am and all my likes and some information about me i also inculded some of the work that i had been doing for the past week like
- 1. https://github.com/lorrainemikai/lorrainemikai.github.io.git
-2. https://github.com/lorrainemikai/bleeh.git
+##Description
+trying to find out about me? then you are at the right place.here you get a full description about me.
 
+##Overview
+The website does the following:
+gives a description about me.
+shows a couple of projects that have been built.
 
-i also used the following license
+## license
       https://opensource.org/licenses/MIT
